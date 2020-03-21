@@ -1,2 +1,2 @@
 # CNN-static-page
-Practice in using HTML and CSS
+Practicing using HTML and CSS by creating one of the CNN`s static pages
